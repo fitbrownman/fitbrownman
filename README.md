@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fitbrownman. I am in 12th grade
+- 👋 Hi, I’m @fitbrownman.
 - 👀 I’m interested in coding and sports
 - 🌱 I’m currently learning python, web development and C++
 - 💞️ I’m looking to collaborate on ...
